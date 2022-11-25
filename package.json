@@ -1,7 +1,7 @@
 {
   "name": "02-ufo",
   "version": "1.0.0",
-  "description": "",
+  "description": "_website design project_",
   "main": "index.js",
   "scripts": {
     "dev": "dead-server --host=localhost --port=4102",
